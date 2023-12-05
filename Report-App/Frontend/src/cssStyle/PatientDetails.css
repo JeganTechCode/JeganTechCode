@@ -1,0 +1,32 @@
+/* PatientDetails.css */
+
+.patient-details-container {
+  /* max-width: 900px; */
+  margin: auto;
+  padding: 20px;
+}
+
+.patient-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.patient-table th, .patient-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.file-upload-container {
+  margin-top: 20px;
+}
+
